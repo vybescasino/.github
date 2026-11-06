@@ -1,4 +1,4 @@
-Provably-fair games and daily rewards at [vybes.si](https://vybes.si) · Vybes Market, questions about your city settled from the published source, at [vybes.us](https://vybes.us)
+Provably-fair games and daily rewards at [vybes.si](https://vybes.si) · Vybes Market, prediction market at [vybes.us](https://vybes.us)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./activity-dark.svg">
