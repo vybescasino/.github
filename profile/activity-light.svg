@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="454" viewBox="0 0 840 454" role="img" aria-labelledby="title desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
-<title id="title">Vybes activity since June 2026</title><desc id="desc">9,814 commits, 976 pull requests merged and 295 issues closed; commits per day.</desc>
+<title id="title">Vybes activity since June 2026</title><desc id="desc">10,828 commits, 1,043 pull requests merged and 315 issues closed; commits per day.</desc>
 <rect x="0.5" y="0.5" width="839" height="453" rx="12" fill="none" stroke="#d1d9e0"/>
 <text x="32" y="46" font-size="16" font-weight="600" fill="#1f2328">Shipped since June 2026</text>
-<text x="808" y="46" font-size="12" text-anchor="end" fill="#59636e">Updated 2 Nov 2026</text>
-<text x="32.0" y="108" font-size="32" font-weight="600" fill="#1f2328">9,814</text>
+<text x="808" y="46" font-size="12" text-anchor="end" fill="#59636e">Updated 6 Nov 2026</text>
+<text x="32.0" y="108" font-size="32" font-weight="600" fill="#1f2328">10,828</text>
 <text x="32.0" y="130" font-size="13" fill="#59636e">commits</text>
 <line x1="290.7" y1="72" x2="290.7" y2="132" stroke="#d1d9e0"/>
-<text x="314.7" y="108" font-size="32" font-weight="600" fill="#1f2328">976</text>
+<text x="314.7" y="108" font-size="32" font-weight="600" fill="#1f2328">1,043</text>
 <text x="314.7" y="130" font-size="13" fill="#59636e">pull requests merged</text>
 <line x1="549.3" y1="72" x2="549.3" y2="132" stroke="#d1d9e0"/>
-<text x="573.3" y="108" font-size="32" font-weight="600" fill="#1f2328">295</text>
+<text x="573.3" y="108" font-size="32" font-weight="600" fill="#1f2328">315</text>
 <text x="573.3" y="130" font-size="13" fill="#59636e">issues closed</text>
 <text x="68" y="164" font-size="12" fill="#59636e">Jun</text>
 <rect x="68" y="174" width="28" height="28" rx="4" fill="#eef1f4"><title>31 May 2026: 0 commits</title></rect>
@@ -21,10 +21,10 @@
 <rect x="68" y="366" width="28" height="28" rx="4" fill="#22c55e"><title>06 Jun 2026: 29 commits</title></rect>
 <rect x="100" y="174" width="28" height="28" rx="4" fill="#15803d"><title>07 Jun 2026: 49 commits</title></rect>
 <rect x="100" y="206" width="28" height="28" rx="4" fill="#86efac"><title>08 Jun 2026: 7 commits</title></rect>
-<rect x="100" y="238" width="28" height="28" rx="4" fill="#15803d"><title>09 Jun 2026: 44 commits</title></rect>
+<rect x="100" y="238" width="28" height="28" rx="4" fill="#22c55e"><title>09 Jun 2026: 44 commits</title></rect>
 <rect x="100" y="270" width="28" height="28" rx="4" fill="#22c55e"><title>10 Jun 2026: 17 commits</title></rect>
 <rect x="100" y="302" width="28" height="28" rx="4" fill="#22c55e"><title>11 Jun 2026: 37 commits</title></rect>
-<rect x="100" y="334" width="28" height="28" rx="4" fill="#15803d"><title>12 Jun 2026: 44 commits</title></rect>
+<rect x="100" y="334" width="28" height="28" rx="4" fill="#22c55e"><title>12 Jun 2026: 44 commits</title></rect>
 <rect x="100" y="366" width="28" height="28" rx="4" fill="#86efac"><title>13 Jun 2026: 2 commits</title></rect>
 <rect x="132" y="174" width="28" height="28" rx="4" fill="#86efac"><title>14 Jun 2026: 3 commits</title></rect>
 <rect x="132" y="206" width="28" height="28" rx="4" fill="#eef1f4"><title>15 Jun 2026: 0 commits</title></rect>
@@ -36,7 +36,7 @@
 <rect x="164" y="174" width="28" height="28" rx="4" fill="#86efac"><title>21 Jun 2026: 6 commits</title></rect>
 <rect x="164" y="206" width="28" height="28" rx="4" fill="#eef1f4"><title>22 Jun 2026: 0 commits</title></rect>
 <rect x="164" y="238" width="28" height="28" rx="4" fill="#22c55e"><title>23 Jun 2026: 17 commits</title></rect>
-<rect x="164" y="270" width="28" height="28" rx="4" fill="#052e16"><title>24 Jun 2026: 107 commits</title></rect>
+<rect x="164" y="270" width="28" height="28" rx="4" fill="#15803d"><title>24 Jun 2026: 107 commits</title></rect>
 <rect x="164" y="302" width="28" height="28" rx="4" fill="#86efac"><title>25 Jun 2026: 14 commits</title></rect>
 <rect x="164" y="334" width="28" height="28" rx="4" fill="#eef1f4"><title>26 Jun 2026: 0 commits</title></rect>
 <rect x="164" y="366" width="28" height="28" rx="4" fill="#86efac"><title>27 Jun 2026: 4 commits</title></rect>
@@ -130,9 +130,9 @@
 <rect x="580" y="174" width="28" height="28" rx="4" fill="#22c55e"><title>20 Sep 2026: 17 commits</title></rect>
 <rect x="580" y="206" width="28" height="28" rx="4" fill="#15803d"><title>21 Sep 2026: 63 commits</title></rect>
 <rect x="580" y="238" width="28" height="28" rx="4" fill="#15803d"><title>22 Sep 2026: 74 commits</title></rect>
-<rect x="580" y="270" width="28" height="28" rx="4" fill="#15803d"><title>23 Sep 2026: 45 commits</title></rect>
+<rect x="580" y="270" width="28" height="28" rx="4" fill="#22c55e"><title>23 Sep 2026: 45 commits</title></rect>
 <rect x="580" y="302" width="28" height="28" rx="4" fill="#22c55e"><title>24 Sep 2026: 17 commits</title></rect>
-<rect x="580" y="334" width="28" height="28" rx="4" fill="#052e16"><title>25 Sep 2026: 108 commits</title></rect>
+<rect x="580" y="334" width="28" height="28" rx="4" fill="#15803d"><title>25 Sep 2026: 108 commits</title></rect>
 <rect x="580" y="366" width="28" height="28" rx="4" fill="#052e16"><title>26 Sep 2026: 489 commits</title></rect>
 <text x="612" y="164" font-size="12" fill="#59636e">Oct</text>
 <rect x="612" y="174" width="28" height="28" rx="4" fill="#052e16"><title>27 Sep 2026: 600 commits</title></rect>
@@ -168,11 +168,15 @@
 <rect x="740" y="238" width="28" height="28" rx="4" fill="#86efac"><title>27 Oct 2026: 3 commits</title></rect>
 <rect x="740" y="270" width="28" height="28" rx="4" fill="#052e16"><title>28 Oct 2026: 311 commits</title></rect>
 <rect x="740" y="302" width="28" height="28" rx="4" fill="#15803d"><title>29 Oct 2026: 66 commits</title></rect>
-<rect x="740" y="334" width="28" height="28" rx="4" fill="#052e16"><title>30 Oct 2026: 142 commits</title></rect>
-<rect x="740" y="366" width="28" height="28" rx="4" fill="#22c55e"><title>31 Oct 2026: 27 commits</title></rect>
+<rect x="740" y="334" width="28" height="28" rx="4" fill="#052e16"><title>30 Oct 2026: 164 commits</title></rect>
+<rect x="740" y="366" width="28" height="28" rx="4" fill="#22c55e"><title>31 Oct 2026: 29 commits</title></rect>
 <text x="772" y="164" font-size="12" fill="#59636e">Nov</text>
-<rect x="772" y="174" width="28" height="28" rx="4" fill="#15803d"><title>01 Nov 2026: 43 commits</title></rect>
-<rect x="772" y="206" width="28" height="28" rx="4" fill="#22c55e"><title>02 Nov 2026: 18 commits</title></rect>
+<rect x="772" y="174" width="28" height="28" rx="4" fill="#15803d"><title>01 Nov 2026: 56 commits</title></rect>
+<rect x="772" y="206" width="28" height="28" rx="4" fill="#15803d"><title>02 Nov 2026: 48 commits</title></rect>
+<rect x="772" y="238" width="28" height="28" rx="4" fill="#052e16"><title>03 Nov 2026: 278 commits</title></rect>
+<rect x="772" y="270" width="28" height="28" rx="4" fill="#052e16"><title>04 Nov 2026: 302 commits</title></rect>
+<rect x="772" y="302" width="28" height="28" rx="4" fill="#052e16"><title>05 Nov 2026: 357 commits</title></rect>
+<rect x="772" y="334" width="28" height="28" rx="4" fill="#86efac"><title>06 Nov 2026: 10 commits</title></rect>
 <text x="32" y="224.0" font-size="12" fill="#59636e">Mon</text>
 <text x="32" y="288.0" font-size="12" fill="#59636e">Wed</text>
 <text x="32" y="352.0" font-size="12" fill="#59636e">Fri</text>
@@ -182,10 +186,10 @@
 <rect x="228" y="416" width="12" height="12" rx="3" fill="#86efac"/>
 <text x="246" y="426" font-size="12" fill="#59636e">1–15</text>
 <rect x="292" y="416" width="12" height="12" rx="3" fill="#22c55e"/>
-<text x="310" y="426" font-size="12" fill="#59636e">16–40</text>
+<text x="310" y="426" font-size="12" fill="#59636e">16–45</text>
 <rect x="356" y="416" width="12" height="12" rx="3" fill="#15803d"/>
-<text x="374" y="426" font-size="12" fill="#59636e">41–105</text>
+<text x="374" y="426" font-size="12" fill="#59636e">46–110</text>
 <rect x="420" y="416" width="12" height="12" rx="3" fill="#052e16"/>
-<text x="438" y="426" font-size="12" fill="#59636e">106+</text>
-<text x="808" y="426" font-size="12" text-anchor="end" fill="#59636e">TypeScript 85% · JavaScript 9% · CSS 4%</text>
+<text x="438" y="426" font-size="12" fill="#59636e">111+</text>
+<text x="808" y="426" font-size="12" text-anchor="end" fill="#59636e">TypeScript 86% · JavaScript 8% · CSS 3%</text>
 </svg>
